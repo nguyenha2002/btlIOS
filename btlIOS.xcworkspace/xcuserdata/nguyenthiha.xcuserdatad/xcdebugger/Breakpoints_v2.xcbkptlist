@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "321D5A4E-02A2-42FC-BD5C-CB4C942A252F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD2E3ACF-E02F-478B-BCC8-3884A35490DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btlIOS/View/Detail/DetailScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "btnAddToCart(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD2E3ACF-E02F-478B-BCC8-3884A35490DA - 15f0e35dcea82a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.DetailScreen.btnAddToCart(Any) -&gt; ()"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/View/Detail/DetailScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "CD2E3ACF-E02F-478B-BCC8-3884A35490DA - 15f0e35dcea82a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.DetailScreen.btnAddToCart(Any) -&gt; ()"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/View/Detail/DetailScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B477D008-1F4F-438D-8311-F189203166A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btlIOS/Controller/AddressScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AddressScreen"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - 2475c5eb6f899f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.orderPlace.getter : Swift.Optional&lt;Swift.Array&lt;btlIOS.Cart&gt;&gt;"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - b859234fe08e5f97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.orderPlace.setter : Swift.Optional&lt;Swift.Array&lt;btlIOS.Cart&gt;&gt;"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - 72299621fc5c1f86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.orderPlace.modify : Swift.Optional&lt;Swift.Array&lt;btlIOS.Cart&gt;&gt;"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - 9a591d560b3227f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.orderPlace.modify : Swift.Optional&lt;Swift.Array&lt;btlIOS.Cart&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - 862c0ec3eb9b28dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; btlIOS.AddressScreen"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B477D008-1F4F-438D-8311-F189203166A4 - ee59ecf1b7de217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btlIOS.AddressScreen.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;btlIOS.AddressScreen&gt;"
+                  moduleName = "btlIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthiha/Documents/demo1/btlIOS/btlIOS/Controller/AddressScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
